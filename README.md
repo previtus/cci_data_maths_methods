@@ -57,6 +57,6 @@ https://en.wikibooks.org/wiki/Python_Programming/Basic_Math
 
 ### Weekly Outline: 
 
-##### Week One: Course Overview & Intro - [slides pdf](https://github.com/previtus/cci_data_maths_methods/blob/master/week01_intro/w01_intro.pdf), [video recording](https://youtu.be/9WZXr9NyYGE)
+##### Week One: Course Overview & Intro - [slides pdf](https://github.com/previtus/cci_data_maths_methods/blob/master/week01_intro/w01_intro.pdf), [video recording](https://youtu.be/r8eh_GhqTbI)
 
 ##### Week Two: Gentle Math Recap

@@ -8,6 +8,9 @@
 
     https://github.com/previtus/cci_data_maths_methods
 
+### Video recordings will be placed here:
+
+[CCI - Data, Math and Methods](https://www.youtube.com/playlist?list=PLCIVpmFkFKQ9_0oVbmZ8Nln-3FP3_3aIz) playlist
 
 ### Course Description:
 

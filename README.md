@@ -59,4 +59,26 @@ https://en.wikibooks.org/wiki/Python_Programming/Basic_Math
 
 ##### Week One: Course Overview & Intro - [slides pdf](https://github.com/previtus/cci_data_maths_methods/blob/master/week01_intro/w01_intro.pdf), [video recording](https://youtu.be/r8eh_GhqTbI)
 
-##### Week Two: Gentle Math Recap
+##### Week Two: Gentle Math Recap, number representations
+
+##### Week Three: Operators, arithmetic, binary and logic
+
+##### Week Four: Logic, state machines (probably writing up a demo, or building basic state machines on paper)
+
+##### Week Five: Math Catchup
+
+##### Week Six: Trigonometry basics
+
+##### Week Seven: Trigonometry for coding tasks (probably working on js demos)
+
+##### Week Eight: Math Catchup
+
+##### Week Nine: Vectors, in math and in code (probably computing on paper)
+
+##### Week Ten: Vector operations
+
+##### Week Eleven: Matrices, operations and their usage in code / computer graphics
+
+##### Week Twelve: Transformations for computer graphics (probably with a code demo)
+
+##### Week Thirteen +: TBD / Catchup

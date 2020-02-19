@@ -59,7 +59,7 @@ https://en.wikibooks.org/wiki/Python_Programming/Basic_Math
 
 ##### Week One: Course Overview & Intro - [slides pdf](https://github.com/previtus/cci_data_maths_methods/blob/master/week01_intro/w01_intro.pdf), [video recording](https://youtu.be/r8eh_GhqTbI)
 
-##### Week Two: Gentle Math Recap, number representations
+##### Week Two: Gentle Math Recap, number representations - [slides pdf](https://github.com/previtus/cci_data_maths_methods/blob/master/week02_math-recap/w02_math-recap.pdf)
 
 ##### Week Three: Operators, arithmetic, binary and logic
 

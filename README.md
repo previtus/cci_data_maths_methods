@@ -61,7 +61,7 @@ https://en.wikibooks.org/wiki/Python_Programming/Basic_Math
 
 ##### Week Two (19.2.) - Gentle Math Recap, number representations - [slides pdf](https://github.com/previtus/cci_data_maths_methods/blob/master/week02_math-recap/w02_math-recap.pdf), [video recording](https://youtu.be/YFkjZQDo330)
 
-##### Week Three: Operators and logic [slides pdf](https://github.com/previtus/cci_data_maths_methods/blob/master/week03_operators-logic/w03_operators-logic.pdf)
+##### Week Three (26.2.) - Operators and logic [slides pdf](https://github.com/previtus/cci_data_maths_methods/blob/master/week03_operators-logic/w03_operators-logic.pdf)
 
 ##### Week Four: Logic, state machines (probably writing up a demo, or building basic state machines on paper)
 

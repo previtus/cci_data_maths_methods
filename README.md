@@ -4,6 +4,8 @@
 
 **Email:** v.ruzicka@arts.ac.uk
 
+**Class moodle:** https://moodle.arts.ac.uk/course/view.php?id=38148
+
 ### Assignments and notes will be posted weekly on github here:
 
     https://github.com/previtus/cci_data_maths_methods

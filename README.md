@@ -67,7 +67,7 @@ https://en.wikibooks.org/wiki/Python_Programming/Basic_Math
 
 ##### Week Four (4.3.) - Logic, state machines (probably writing up a demo, or building basic state machines on paper) - [slides pdf](https://github.com/previtus/cci_data_maths_methods/blob/master/week04_machines-primes/w04_machines-primes.pdf), [video recording](https://youtu.be/fNxb0K_Qf80)
 
-##### Week Five: Math Catchup
+##### Week Five (11.3.) - State Machines Project - [slides pdf](https://github.com/previtus/cci_data_maths_methods/blob/master/week05_state-machines-project/w05_state-machines-project.pdf), 
 
 ##### Week Six: Trigonometry basics
 

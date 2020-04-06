@@ -69,18 +69,18 @@ https://en.wikibooks.org/wiki/Python_Programming/Basic_Math
 
 ##### Week Five (11.3.) - State Machines Project - [slides pdf](https://github.com/previtus/cci_data_maths_methods/blob/master/week05_state-machines-project/w05_state-machines-project.pdf), [video recording](https://youtu.be/ge0twaI9RLA)
 
-##### Week Six: Trigonometry basics
+##### Week Six: Math Repeat I (recap for logic formulas and state machines)
 
-##### Week Seven: Trigonometry for coding tasks (probably working on js demos)
+##### Week Seven: Statistics, probability and randomness
 
-##### Week Eight: Math Catchup
+##### Week Eight: Trigonometry for coding tasks
 
-##### Week Nine: Vectors, in math and in code (probably computing on paper)
+##### Week Nine: Vectors, in math and in code, coding our own game engine physics (probably computing on paper)
 
-##### Week Ten: Vector operations
+##### Week Ten: Vector operations, convolutions over images
 
 ##### Week Eleven: Matrices, operations and their usage in code / computer graphics
 
-##### Week Twelve: Transformations for computer graphics (probably with a code demo)
+##### Week Twelve: Graphs, pathfinding on maps for games
 
 ##### Week Thirteen +: TBD / Catchup

@@ -69,7 +69,7 @@ https://en.wikibooks.org/wiki/Python_Programming/Basic_Math
 
 ##### Week Five (11.3.) - State Machines Project - [slides pdf](https://github.com/previtus/cci_data_maths_methods/blob/master/week05_state-machines-project/w05_state-machines-project.pdf), [video recording](https://youtu.be/ge0twaI9RLA)
 
-##### Week Six: Math Repeat I (recap for logic formulas and state machines)
+##### Week Six: Math Repeat I - [slides pdf](https://github.com/previtus/cci_data_maths_methods/blob/master/week06_math-repeat-I/w06_math-repeat-I.pdf)
 
 ##### Week Seven: Statistics, probability and randomness
 

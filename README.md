@@ -71,7 +71,7 @@ https://en.wikibooks.org/wiki/Python_Programming/Basic_Math
 
 ##### Week Six (15.4.) - Math Repeat I - [slides pdf](https://github.com/previtus/cci_data_maths_methods/blob/master/week06_math-repeat-I/w06_math-repeat-I.pdf), [video recording](https://youtu.be/jNtObaKcOmM)
 
-##### Week Seven (22.4.) - Statistics and probability - [slides pdf](https://github.com/previtus/cci_data_maths_methods/blob/master/week07_statistics-probability/w07_statistics-probability.pdf)
+##### Week Seven (22.4.) - Statistics and probability - [slides pdf](https://github.com/previtus/cci_data_maths_methods/blob/master/week07_statistics-probability/w07_statistics-probability.pdf), [video recording](https://youtu.be/liY0rvSqF0s)
 
 ##### Week Eight: Trigonometry for coding tasks
 

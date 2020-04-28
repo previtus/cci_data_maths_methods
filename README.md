@@ -73,14 +73,14 @@ https://en.wikibooks.org/wiki/Python_Programming/Basic_Math
 
 ##### Week Seven (22.4.) - Statistics and probability - [slides pdf](https://github.com/previtus/cci_data_maths_methods/blob/master/week07_statistics-probability/w07_statistics-probability.pdf), [video recording](https://youtu.be/liY0rvSqF0s)
 
-##### Week Eight: Trigonometry for coding tasks
+##### Week Eight (29.4.): Color spaces and mapping periodic functions - [slides pdf](https://github.com/previtus/cci_data_maths_methods/blob/master/week08_map-color-spaces/w08_map-color-spaces.pdf)
 
-##### Week Nine: Vectors, in math and in code, coding our own game engine physics (probably computing on paper)
+##### Week Nine: Graphs, pathfinding on maps for games
 
-##### Week Ten: Vector operations, convolutions over images
+##### Week Ten: TBD
 
-##### Week Eleven: Matrices, operations and their usage in code / computer graphics
+##### Week Eleven: Vectors, in math and in code, convolutions over images
 
-##### Week Twelve: Graphs, pathfinding on maps for games
+##### Week Twelve: Matrices, operations and their usage in code / computer graphics
 
-##### Week Thirteen +: TBD / Catchup
+##### Week Thirteen +: TBD (probably Recap)

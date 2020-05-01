@@ -73,7 +73,7 @@ https://en.wikibooks.org/wiki/Python_Programming/Basic_Math
 
 ##### Week Seven (22.4.) - Statistics and probability - [slides pdf](https://github.com/previtus/cci_data_maths_methods/blob/master/week07_statistics-probability/w07_statistics-probability.pdf), [video recording](https://youtu.be/liY0rvSqF0s)
 
-##### Week Eight (29.4.): Color spaces and mapping periodic functions - [slides pdf](https://github.com/previtus/cci_data_maths_methods/blob/master/week08_map-color-spaces/w08_map-color-spaces.pdf)
+##### Week Eight (29.4.): Color spaces and mapping periodic functions - [slides pdf](https://github.com/previtus/cci_data_maths_methods/blob/master/week08_map-color-spaces/w08_map-color-spaces.pdf), [video recording](https://youtu.be/54x1CA_R_2Q)
 
 ##### Week Nine: Graphs, pathfinding on maps for games
 

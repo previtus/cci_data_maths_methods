@@ -75,7 +75,7 @@ https://en.wikibooks.org/wiki/Python_Programming/Basic_Math
 
 ##### Week Eight (29.4.): Color spaces and mapping periodic functions - [slides pdf](https://github.com/previtus/cci_data_maths_methods/blob/master/week08_map-color-spaces/w08_map-color-spaces.pdf), [video recording](https://youtu.be/54x1CA_R_2Q)
 
-##### Week Nine: Graphs, pathfinding on maps for games
+##### Week Nine (6.5.): Searching, pathfinding on maps - [slides pdf](https://github.com/previtus/cci_data_maths_methods/blob/master/week09_searching/w09_searching.pdf), [video recording](https://youtu.be/O4wwY2rRdPM)
 
 ##### Week Ten: TBD
 

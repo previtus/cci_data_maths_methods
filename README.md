@@ -77,8 +77,8 @@ https://en.wikibooks.org/wiki/Python_Programming/Basic_Math
 
 ##### Week Nine (6.5.): Searching, pathfinding on maps - [slides pdf](https://github.com/previtus/cci_data_maths_methods/blob/master/week09_searching/w09_searching.pdf), [video recording](https://youtu.be/O4wwY2rRdPM)
 
-##### Week Ten: Class with Mick Grierson, audio applications and js
+##### Week Ten (13.5): Class with Mick Grierson, audio applications and js
 
-##### Week Eleven: Vectors and matrices in math and in code - [slides pdf](https://github.com/previtus/cci_data_maths_methods/blob/master/week11_vectors-matrices/w11_vectors-matrices.pdf)
+##### Week Eleven (20.5): Vectors and matrices in math and in code - [slides pdf](https://github.com/previtus/cci_data_maths_methods/blob/master/week11_vectors-matrices/w11_vectors-matrices.pdf)
 
-##### Week Twelve: Assigment preparation session
+##### Week Twelve (27.5): Assigment preparation session

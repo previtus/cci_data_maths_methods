@@ -81,4 +81,4 @@ https://en.wikibooks.org/wiki/Python_Programming/Basic_Math
 
 ##### Week Eleven (20.5): Vectors and matrices in math and in code - [slides pdf](https://github.com/previtus/cci_data_maths_methods/blob/master/week11_vectors-matrices/w11_vectors-matrices.pdf)
 
-##### Week Twelve (27.5): Assigment preparation session
+##### Week Twelve (27.5): Assigment preparation session - [slides pdf](https://github.com/previtus/cci_data_maths_methods/blob/master/week12_exam-prep/w12_exam-prep.pdf)
